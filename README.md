@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Vanshika Goel</h1>
-<h4 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **web applications and browser extensions**
 
